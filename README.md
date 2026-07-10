@@ -1,1 +1,1 @@
-run two python codes (recursive_fb__SHS_2.0_qubo.py.py and ) in folder recursive_DF_fb_yt
+run two python codes (recursive_fb__SHS_2.0_qubo.py.py and recursive_yt__DF_2.0_qubo.py) in folder recursive_DF_fb_yt to run local search heuristic to tackle Facebook Ego networks and Youtube network.
