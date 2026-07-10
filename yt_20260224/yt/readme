@@ -2,4 +2,6 @@ To generate random replicates:
 
 1. Unzip yt_data.zip and place yt_lines.csv and yt_nodes.csv here.
 
-2. Run generate.py to generate a random replicate 
+2. Run generate.py to generate a random replicate yt_nodes_value1.csv and rename it as yt_nodes_value1_0.csv, yt_nodes_value1_1.csv, etc. for replicates 1, 2, etc.
+
+
