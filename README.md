@@ -2,4 +2,4 @@ run two python codes (recursive_fb__SHS_2.0_qubo.py and recursive_yt__DF_2.0_qub
 
 before running recursive_fb__SHS_2.0_qubo.py, unzip nodes_zip.zip in folder fb
 
-before running recursive_yt__DF_2.0_qubo.py, generate random replicates on Youtube network in folder 
+before running recursive_yt__DF_2.0_qubo.py, generate random replicates on Youtube network in folder yt_20260224/yt/
